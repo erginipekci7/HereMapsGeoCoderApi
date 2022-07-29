@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Falcon", "Falcon\Falcon.csproj", "{5BDAAEC6-2CAC-45FF-BF31-5594CD890717}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BDAAEC6-2CAC-45FF-BF31-5594CD890717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BDAAEC6-2CAC-45FF-BF31-5594CD890717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BDAAEC6-2CAC-45FF-BF31-5594CD890717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BDAAEC6-2CAC-45FF-BF31-5594CD890717}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A0E8049-A983-4408-8BC2-573A5E6DC9CC}
+	EndGlobalSection
+EndGlobal
